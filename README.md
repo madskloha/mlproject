@@ -1,5 +1,5 @@
 ## Machine Learning Project ##
-Project in a machine learning course on using SVM, MLP and logistic regression on land cover and land use data.                   
+This is a project in a machine learning course on using SVM, MLP and logistic regression on land cover and land use data.                   
 The notebooks in this repository was done as part of a project related to an introductory machine learning course on Aarhus University.                                                                                                                      
 The project used the following notebook as a guideline/tutorial:
 
