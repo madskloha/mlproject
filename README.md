@@ -7,7 +7,7 @@ https://github.com/sentinel-hub/eo-learn/blob/master/examples/land-cover-map/SI_
 
 That notebook uses a model called LightGBM to classify land-use and land-cover in Slovenia.
 
-This project implemented selected scikit-learn models on the same data to see how those models perform compared to each other and to the LightGBM model.      
+This project implemented selected scikit-learn models on the same data to see how those models perform compared to each other and to the LightGBM model.Therefore, the first part of the notebooks in this repository is an exact replica of the original notebook where the LightGBM model was used.   
 
 The following scikit-learn models were used:
 
